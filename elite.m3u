@@ -59,7 +59,7 @@ http://179.51.136.19:8000/play/a113/index.m3u8
 http://38.183.182.166:8000/play/a12t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ DEPORTES",ESPN
-https://bgfuzq.fubohd.com/espnar/mono.m3u8?token=ab4122e087f04edf51359f17e3d8393f8c9d32b6-86-1760474796-1760456796
+http://prestigetv.site:80/play/BawxRmW-OJOBiYCnblVR8tGJXwndPXNhdJgNToVSljaLdgmS0hD2JDc8QGvdAKEk/m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="⚽ DEPORTES",ESPN 2
 http://181.119.86.68:8000/play/b032/index.m3u8
@@ -281,4 +281,5 @@ https://master.tucableip.com/tvhome/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" group-title="🌎 LATINOAMÉRICA",Las Estrellas MX
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
 
